@@ -1,2 +1,2 @@
 # CoRetailManager
-a retail management system
+a retail  management system
