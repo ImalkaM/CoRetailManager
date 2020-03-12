@@ -1,2 +1,2 @@
 # CoRetailManager
-a retail  management system
+A retail management system usint asp.net
